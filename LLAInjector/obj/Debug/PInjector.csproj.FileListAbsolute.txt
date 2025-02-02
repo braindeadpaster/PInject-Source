@@ -1,0 +1,12 @@
+C:\Users\dtc\source\repos\LLAInjector\LLAInjector\bin\Debug\LLAInjector.exe.config
+C:\Users\dtc\source\repos\LLAInjector\LLAInjector\bin\Debug\LLAInjector.exe
+C:\Users\dtc\source\repos\LLAInjector\LLAInjector\bin\Debug\LLAInjector.pdb
+C:\Users\dtc\source\repos\LLAInjector\LLAInjector\obj\Debug\PInjector.csproj.AssemblyReference.cache
+C:\Users\dtc\source\repos\LLAInjector\LLAInjector\obj\Debug\LLAInjector.Injector.resources
+C:\Users\dtc\source\repos\LLAInjector\LLAInjector\obj\Debug\LLAInjector.Properties.Resources.resources
+C:\Users\dtc\source\repos\LLAInjector\LLAInjector\obj\Debug\PInjector.csproj.GenerateResource.cache
+C:\Users\dtc\source\repos\LLAInjector\LLAInjector\obj\Debug\PInjector.csproj.CoreCompileInputs.cache
+C:\Users\dtc\source\repos\LLAInjector\LLAInjector\obj\Debug\LLAInjector.exe
+C:\Users\dtc\source\repos\LLAInjector\LLAInjector\obj\Debug\LLAInjector.pdb
+C:\Users\dtc\source\repos\LLAInjector\LLAInjector\obj\Debug\PInjector.csproj.Fody.CopyLocal.cache
+C:\Users\dtc\source\repos\LLAInjector\LLAInjector\obj\Debug\PInjector.csproj.Fody.RuntimeCopyLocal.cache

@@ -1,0 +1,13 @@
+C:\Users\dtc\source\repos\LLAInjector\LLAInjector\bin\Debug\LLAInjector.exe.config
+C:\Users\dtc\source\repos\LLAInjector\LLAInjector\bin\Debug\LLAInjector.exe
+C:\Users\dtc\source\repos\LLAInjector\LLAInjector\bin\Debug\LLAInjector.pdb
+C:\Users\dtc\source\repos\LLAInjector\LLAInjector\bin\Debug\Guna.UI2.dll
+C:\Users\dtc\source\repos\LLAInjector\LLAInjector\obj\Debug\LLAInjector.csproj.AssemblyReference.cache
+C:\Users\dtc\source\repos\LLAInjector\LLAInjector\obj\Debug\LLAInjector.Properties.Resources.resources
+C:\Users\dtc\source\repos\LLAInjector\LLAInjector\obj\Debug\LLAInjector.csproj.GenerateResource.cache
+C:\Users\dtc\source\repos\LLAInjector\LLAInjector\obj\Debug\LLAInjector.csproj.CoreCompileInputs.cache
+C:\Users\dtc\source\repos\LLAInjector\LLAInjector\obj\Debug\LLAInjec.2DA5B7CD.Up2Date
+C:\Users\dtc\source\repos\LLAInjector\LLAInjector\obj\Debug\LLAInjector.exe
+C:\Users\dtc\source\repos\LLAInjector\LLAInjector\obj\Debug\LLAInjector.pdb
+C:\Users\dtc\source\repos\LLAInjector\LLAInjector\bin\Debug\Properties\88mAn7r.dll
+C:\Users\dtc\source\repos\LLAInjector\LLAInjector\obj\Debug\LLAInjector.Injector.resources
